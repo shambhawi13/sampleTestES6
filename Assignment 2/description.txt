@@ -1,0 +1,9 @@
+For all the 3 function, enter values from prompt and output can be seen in console.
+
+1st function takes season number and episode number as input and iterates through the json and if the match is found, displays detail in console
+
+2nd function takes array of episode ids through prompt and again searches for that list of ids and displays the deatil.
+In above example prompt is written for 2 inputs only but the function is coded in such a way that it can take multiple arguments.
+
+3rd function takes episode name as input.
+Case insensitive comparison is done in above function
